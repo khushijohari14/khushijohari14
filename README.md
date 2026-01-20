@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/khushijohari14">
   </a>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://github.com/khushijohari14">
