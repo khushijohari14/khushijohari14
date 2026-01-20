@@ -63,15 +63,6 @@
 
 ---
 
-<details>
-
-  <p align="center">
-    <img src="https://github.com/khushijohari14/github-contribution-grid-snake/blob/main/dist/github-contribution-grid-snake.svg"/>
-  </p>
-</details>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
