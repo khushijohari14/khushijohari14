@@ -64,7 +64,6 @@
 ---
 
 <details>
-  <summary><h2>🐍 Contribution Snake</h2></summary>
 
   <p align="center">
     <img src="https://github.com/khushijohari14/github-contribution-grid-snake/blob/main/dist/github-contribution-grid-snake.svg"/>
@@ -79,4 +78,3 @@
 
 
 
-bhai khud dhund le isme jonah ya lawrence kahi nhi h. 
